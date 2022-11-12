@@ -6,7 +6,7 @@ toc: false
 date: November 11, 2022
 #header:
   #teaser: /assets/images/thumbnails/joel-filipe-thumb-400.jpg
-excerpt: "Accomplished certificate of Software Architect"
+excerpt: "Certification for Software Architecture"
 ---
 
-I have accomplished the ISAQB CSAP-F for 
+I have accomplished the certification for Software Architecture from the International Software Architecture Qualification Board (iSAQB CPSA-F).
