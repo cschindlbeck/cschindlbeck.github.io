@@ -2,9 +2,9 @@ name: Update Resume
 
 on:
   push:
-    branches: [ "update-about-by-actions" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "update-about-by-actions" ]
+    branches: [ "main" ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
