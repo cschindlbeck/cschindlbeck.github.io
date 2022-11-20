@@ -2,13 +2,9 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2022-04-08 11:00:00 +0100
+date:   2022-11-20 16:50:57 +0000
 categories: jekyll update
 ---
-
-<!-- figure style="width: 30%" class="align-right">
-  <img src="/assets/images/hawaii.jpg" alt="">
-</figure -->
 
 ## Hi there, I'm Chris! 👋
 
@@ -16,8 +12,8 @@ I am a Software Development Engineer interested in Robotics, AI, and Blockchain 
 
 Connect with me on: 
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://cschindlbeck.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisschindlbeck/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/cschindlbeck)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Christopher-Schindlbeck)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/schindlbeck)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/christopsy666/)
@@ -29,13 +25,13 @@ Connect with me on:
 
 ### Domain Knowledge
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-green?style=flat">
-  <img src="https://img.shields.io/badge/Control-red?style=flat">
-  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat">
-  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat">
-  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat">
-  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat"> 
-  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat"> 
+<img src="https://img.shields.io/badge/Robotics-green?style=flat">
+<img src="https://img.shields.io/badge/Control-red?style=flat">
+<img src="https://img.shields.io/badge/Motion Planning-blue?style=flat">
+<img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat">
+<img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat">
+<img src="https://img.shields.io/badge/Machine Learning-success?style=flat"> 
+<img src="https://img.shields.io/badge/Blockchain-critical?style=flat"> 
 </p>
 
 ### Programming Languages
@@ -73,7 +69,6 @@ Connect with me on:
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
   <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
 </p>
 
 ### Operating Systems
