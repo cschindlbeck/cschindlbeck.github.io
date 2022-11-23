@@ -1,5 +1,7 @@
 # Github homepage
 
+![example workflow](https://github.com/cschindlbeck/cschindlbeck.github.io/actions/workflows/update-resume.yml/badge.svg)
+
 Chris' personal homepage, visit [here](https://cschindlbeck.github.io/). 
 
 ## Docker
