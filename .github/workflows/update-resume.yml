@@ -23,15 +23,16 @@ jobs:
         git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/cschindlbeck/cv.git
         cd cv
         ./latexdockercmd.sh pdflatex resume_cschindlbeck.tex
+        cd ..
+        cp cv/resume_cschindlbeck.pdf assets/docs/resume_cschindlbeck.pdf
+        rm -rf cv
     - name: Push code
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        # Force add since README is on gitignore
-        #
-        #
-        git pull origin ${GITHUB_REF##*/} --rebase
-        git add -f cv/resume_cschindlbeck.pdf
+        git status
+        git add -f assets/docs/resume_cschindlbeck.pdf
         # Prevent empty add to result in error
         git diff-index --quiet HEAD || git commit -m "Updated Resume"
+        git pull origin ${GITHUB_REF##*/} --rebase
         git push
