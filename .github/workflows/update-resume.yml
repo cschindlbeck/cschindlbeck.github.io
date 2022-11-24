@@ -30,8 +30,8 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         # Force add since README is on gitignore
-        git pull origin ${GITHUB_REF##*/} --rebase
         git add -f cv/resume_cschindlbeck.pdf
+        git pull origin ${GITHUB_REF##*/} --rebase
         # Prevent empty add to result in error
         git diff-index --quiet HEAD || git commit -m "Updated Resume"
         git push
