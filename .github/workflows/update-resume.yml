@@ -2,9 +2,9 @@ name: Update Resume
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "split-workflow" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "split-workflow" ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
