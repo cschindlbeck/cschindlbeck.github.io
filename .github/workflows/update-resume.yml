@@ -19,8 +19,9 @@ jobs:
       #ref: refs/heads/main
     - name: Build Resume
       run: |
-        git config --global url.https://github.com/.insteadOf git://github.com/
-        git clone https://github.com/cschindlbeck/cv.git
+        #git config --global url.https://github.com/.insteadOf git://github.com/
+        #git clone https://github.com/cschindlbeck/cv.git
+        git clone git@github.com:cschindlbeck/cv.git
         ./latexdockercmd.sh pdflatex resume_cschindlbeck.tex
     - name: Push code
       run: |
