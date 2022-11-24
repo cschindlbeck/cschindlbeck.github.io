@@ -2,9 +2,9 @@ name: Update Resume
 
 on:
   push:
-    branches: [ "split-workflow" ]
+    branches: [ "${GITHUB_REF##*/}" ]
   pull_request:
-    branches: [ "split-workflow" ]
+    branches: [ "${GITHUB_REF##*/}" ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
