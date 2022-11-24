@@ -2,9 +2,9 @@ name: Update Resume
 
 on:
   push:
-    branches: [ "${GITHUB_REF##*/}" ]
+    branches: [ ${GITHUB_REF##*/} ]
   pull_request:
-    branches: [ "${GITHUB_REF##*/}" ]
+    branches: [ ${GITHUB_REF##*/} ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
