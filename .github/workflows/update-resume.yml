@@ -25,6 +25,7 @@ jobs:
         ./latexdockercmd.sh pdflatex resume_cschindlbeck.tex
         cd ..
         cp cv/resume_cschindlbeck.pdf assets/docs/resume_cschindlbeck.pdf
+        rm -rf cv
     - name: Push code
       run: |
         git config --global user.name "github-actions[bot]"
