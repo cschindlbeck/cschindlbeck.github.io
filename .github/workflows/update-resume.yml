@@ -2,9 +2,9 @@ name: Update Resume
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "fix-resume" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "fix-resume" ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
@@ -23,13 +23,13 @@ jobs:
         git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/cschindlbeck/cv.git
         cd cv
         ./latexdockercmd.sh pdflatex resume_cschindlbeck.tex
+        cd ..
+        cp cv/resume_schindlbeck.pdf assets/resume_cschindlbeck.pdf
     - name: Push code
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         # Force add since README is on gitignore
-        #
-        #
         git pull origin ${GITHUB_REF##*/} --rebase
         git add -f cv/resume_cschindlbeck.pdf
         # Prevent empty add to result in error
