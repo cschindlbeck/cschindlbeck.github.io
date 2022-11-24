@@ -33,6 +33,6 @@ jobs:
         git status
         git add -f assets/docs/resume_cschindlbeck.pdf
         # Prevent empty add to result in error
-        git pull origin ${GITHUB_REF##*/} --rebase
         git diff-index --quiet HEAD || git commit -m "Updated Resume"
+        git pull origin ${GITHUB_REF##*/} --rebase
         git push
