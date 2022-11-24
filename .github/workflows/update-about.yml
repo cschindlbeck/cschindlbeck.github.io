@@ -2,9 +2,9 @@ name: Update About
 
 on:
   push:
-    branches: [ "split-workflow" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "split-workflow" ]
+    branches: [ "main" ]
   # schedule:
   #  - cron: "*/10 * * * *"
 
