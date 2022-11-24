@@ -1,6 +1,7 @@
 # Github homepage
 
-![example workflow](https://github.com/cschindlbeck/cschindlbeck.github.io/actions/workflows/update-resume.yml/badge.svg)
+![update-resume](https://github.com/cschindlbeck/cschindlbeck.github.io/actions/workflows/update-resume.yml/badge.svg)
+![update-about](https://github.com/cschindlbeck/cschindlbeck.github.io/actions/workflows/update-about.yml/badge.svg)
 
 Chris' personal homepage, visit [here](https://cschindlbeck.github.io/). 
 
