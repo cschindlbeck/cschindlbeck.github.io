@@ -2,11 +2,11 @@ name: Update About
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
-  # schedule:
-  #  - cron: "*/10 * * * *"
+    branches: ["main"]
+  schedule:
+    - cron: "0 0 1 * *"
 
 jobs:
   build:
