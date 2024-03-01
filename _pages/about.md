@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2024-01-05 20:49:38 +0000
+date:   2024-03-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -26,13 +26,13 @@ Connect with me on:
 ### Domain Knowledge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-green?style=flat">
-  <img src="https://img.shields.io/badge/Control-red?style=flat">
-  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat">
-  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat">
-  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat">
-  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat">
-  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat">
+  <img src="https://img.shields.io/badge/Robotics-green?style=flat" />
+  <img src="https://img.shields.io/badge/Control-red?style=flat" />
+  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
+  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
 </p>
 
 ### Programming Languages
@@ -41,10 +41,11 @@ Connect with me on:
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img alt="bash" src="https://img.shields.io/badge/bash-121011.svg?logo=gnu-bash&logoColor=white">
+  <img alt="bash" src="https://img.shields.io/badge/bash-121011.svg?logo=gnu-bash&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
+  <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
 </p>
 
 ### Tools & Frameworks
@@ -55,7 +56,7 @@ Connect with me on:
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
   <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" />
   <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" />
   <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -65,13 +66,15 @@ Connect with me on:
 
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
+  <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   <img alt="github_ci" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+  <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
   <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
   <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-  <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
 </p>
 
 ### Operating Systems
@@ -135,7 +138,7 @@ Connect with me on:
     1250 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 03.01.2024 19:13:26
+Last update: 01.03.2024 01:22:04
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
