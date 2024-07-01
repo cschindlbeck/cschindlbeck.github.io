@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2024-06-24 20:49:38 +0000
+date:   2024-07-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -65,7 +65,8 @@ Connect with me on:
 ### DevOps & Cloud Technologies
 
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
   <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
@@ -147,7 +148,7 @@ Connect with me on:
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.06.2024 01:34:55
+Last update: 24.06.2024 05:24:44
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
