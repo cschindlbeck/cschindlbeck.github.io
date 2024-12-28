@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 # Install the specific Bundler version
-RUN gem install bundler:2.3.5
+RUN gem install bundler:2.6.2
 
 # Copy application files
 COPY . .
