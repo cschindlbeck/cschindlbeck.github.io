@@ -2,12 +2,12 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2024-12-28 20:49:38 +0000
+date:   2025-01-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
 
-I am a Software Development Engineer interested in Robotics, AI, and Blockchain with a ❤️ for DevOps.
+I am a DevOps Engineer with background in Robotics, AI, and Blockchain.
 
 Connect with me on:
 
@@ -23,19 +23,7 @@ Connect with me on:
 
 ## 🛠️ My Tool and Skill Stack
 
-### Domain Knowledge
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-green?style=flat" />
-  <img src="https://img.shields.io/badge/Control-red?style=flat" />
-  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
-  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
-</p>
-
-### Programming Languages
+### Programming & Scripting Languages
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -46,20 +34,7 @@ Connect with me on:
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
   <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
-</p>
-
-### Tools & Frameworks
-
-<p align="center">
-  <img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
-  <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
-  <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
-  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" />
-  <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat&logo=Yaml&logoColor=white" />
 </p>
 
 ### DevOps & Cloud Technologies
@@ -76,6 +51,27 @@ Connect with me on:
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
   <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
   <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
+  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
+  <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF" />
+</p>
+
+### Tools & Frameworks & Libraries
+
+<p align="center">
+  <img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=" />
+  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
+  <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" />
+  <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
+  <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" />
+  <img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" />
+  <img alt="homebrew" src="https://img.shields.io/badge/homebrew-FBB040?style=flat&logo=homebrew&logoColor=white" />
+  <img alt="wezterm" src="https://img.shields.io/badge/wezterm-4E49EE?style=flat&logo=wezterm&logoColor=white" />
+  <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="zsh" src="https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=Zsh&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E" />
 </p>
 
 ### Operating Systems
@@ -101,6 +97,32 @@ Connect with me on:
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
   <img alt="flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=ffffff)" />
 </p>
+
+### Domain Knowledge
+
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-green?style=flat" />
+<img src="https://img.shields.io/badge/Control-red?style=flat" />
+<img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
+<img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
+<img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
+<img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
+<img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
+</p>
+
+## 🏅 My Certifications 
+
+<p align="center">
+  <img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
+</p>
+
+- [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
+- [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
+- [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
+- [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
+
+See my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-schindlbeck)
 
 ## 📈 My Github Stats
 
@@ -134,7 +156,7 @@ Connect with me on:
          | |    | |/ __| '_ \ / _ \/ __/ __|
          | |____| | (__| | | |  __/\__ \__ \
          |______|_|\___|_| |_|\___||___/___/
-        
+
     2130 ┤                                                              ╭
     2042 ┤                                                              │
     1954 ┤                                              ╭╮  ╭╮          │
@@ -148,7 +170,7 @@ Connect with me on:
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.12.2024 02:15:29
+Last update: 30.12.2024 22:23:41
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
