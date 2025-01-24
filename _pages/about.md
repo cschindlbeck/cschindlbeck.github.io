@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2025-01-01 20:49:38 +0000
+date:   2025-01-24 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -27,39 +27,72 @@ Connect with me on:
 
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/bash-121011.svg?logo=gnu-bash&logoColor=white" />
-  <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat&logo=Yaml&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" />
   <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat&logo=Yaml&logoColor=white" />
+  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
 </p>
 
 ### DevOps & Cloud Technologies
 
 <p align="center">
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
+</p>
+
+### Infrastructure As Code
+
+<p align="center">
   <img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white" />
   <img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" />
-  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  <img alt="github_ci" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
-  <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
-  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-  <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-  <img alt="vault" src="https://img.shields.io/badge/Vault-FFD814?style=flat&logo=Vault&logoColor=black" />
   <img alt="packer" src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF" />
 </p>
 
-### Tools & Frameworks & Libraries
+
+### Container & Orchestration
+
+<p align="center">
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)" />
+</p>
+
+### CI/CD
+
+<p align="center">
+  <img alt="gitlab_ci" src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+  <img alt="github_ci" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
+  <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-49728B?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="azure_devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img alt="dbeaver" src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
+  <img alt="dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### Version Control Systems
+
+<p align="center">
+  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  <img alt="github_pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
+</p>
+
+### Tools, Frameworks & Libraries
 
 <p align="center">
   <img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white" />
   <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white" />
   <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8" />
@@ -83,6 +116,7 @@ Connect with me on:
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img alt="Macos" src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white" />
 </p>
 
@@ -101,28 +135,32 @@ Connect with me on:
 ### Domain Knowledge
 
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-green?style=flat" />
-<img src="https://img.shields.io/badge/Control-red?style=flat" />
-<img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
-<img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
-<img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
-<img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
-<img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
+  <img src="https://img.shields.io/badge/Robotics-green?style=flat" />
+  <img src="https://img.shields.io/badge/Control-red?style=flat" />
+  <img src="https://img.shields.io/badge/Motion Planning-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Sensor Fusion-yellowgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Signal and Image Processing-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Machine Learning-success?style=flat" />
+  <img src="https://img.shields.io/badge/Blockchain-critical?style=flat" />
 </p>
 
-## 🏅 My Certifications 
+## 🏅 My Certifications & Courses
 
 <p align="center">
+  <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
   <img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
+  <img alt="amazon-eks" src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125">
 </p>
 
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
+- [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
 - [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
 
-See my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-schindlbeck)
+See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
 
 ## 📈 My Github Stats
 
@@ -170,7 +208,7 @@ See my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-sc
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 30.12.2024 22:23:41
+Last update: 24.01.2025 13:21:52
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
