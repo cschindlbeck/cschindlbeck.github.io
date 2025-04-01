@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2025-03-01 20:49:38 +0000
+date:   2025-04-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -35,6 +35,7 @@ Connect with me on:
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black" />
+  <img alt="groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white" />
   <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
 </p>
 
@@ -213,7 +214,7 @@ See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-sch
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.03.2025 01:57:46
+Last update: 01.04.2025 02:09:07
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
