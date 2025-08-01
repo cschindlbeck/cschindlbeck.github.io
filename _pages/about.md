@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2025-07-01 20:49:38 +0000
+date:   2025-08-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -152,21 +152,55 @@ Connect with me on:
 
 ## 🏅 My Certifications & Courses
 
+Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
+
+### Certifications
+
 <p align="center">
-  <img alt="cka" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
-  <img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
-  <img alt="amazon-eks" src="https://images.credly.com/size/340x340/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125">
+  <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667" target="_blank"><img alt="cka" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6" target="_blank"><img alt="terraform-associate" src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125"></a>
+  <!-- <a href="https://www.gernotstarke.de/images/certification/cpsa-f-logo.png" target="_blank"><img alt="iSAQB" src="CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)" width="125" height="125"></a> -->
+  <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
+  <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
 
+#### 2025
+
+- [GitHub Advanced Security](https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57/public_url)
 - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667/public_url)
-- [Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5/public_url)
-- [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
+
+#### 2024
+
+- [HashiCorp Certified: Terraform Associate (HCTA0-003)](https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6)
+
+#### 2022
+
 - [Certified Professional for Software Architecture (iSAQB CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)
+
+#### 2020
+
 - [Agile Scrum Master](https://mylogin.exin.nl/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794863&ModuleID=630589)
 - [Agile Scrum Product Owner](https://mylogin.exin.nl/AppPool_5/polarserver.asp?FrameSet=Minimal&ToolName=CertificateCheckTool&Framed=1&LastName=Schindlbeck&CertificateNumber=6337316.20794001&ModuleID=630641&SID=80DACB7C5BBC16548C800E6EB9583B7C&PageID=0)
 
-See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-schindlbeck) and [CertDirectory.io](https://certdirectory.io/profile/65263cfc-1d9c-41f1-9bbe-52e4af35ab07)
+### Courses
+
+<p align="center">
+  <a href="https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792" target="_blank"><img alt="amazon-well-architected" src="https://images.credly.com/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5" target="_blank"><img alt="amazon-eks" src="https://images.credly.com/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f" target="_blank"><img alt="amazon-architecting" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1" target="_blank"><img alt="amazon-cloud-quest-cloud-practitioner" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699" target="_blank"><img alt="educate-networking" src="https://images.credly.com/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9" target="_blank"><img alt="educate-gen-ai" src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="125" height="125"></a>
+</p>
+
+- [AWS Well-Architected Proficient](https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792)
+- [AWS Technology: Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5)
+- [AWS Technology: Architecting](https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f)
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1)
+- [AWS Educate: Getting Started with Networking](https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699)
+- [AWS Educate: Introduction to Generative AI](https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9)
+- [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
 
 ## 📈 My Github Stats
 
@@ -214,7 +248,7 @@ See my certifications on 👉🏻[Credly](https://www.credly.com/users/chris-sch
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.07.2025 02:27:53
+Last update: 01.08.2025 02:38:06
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
