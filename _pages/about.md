@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2025-10-01 20:49:38 +0000
+date:   2025-11-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -159,7 +159,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 <p align="center">
   <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667" target="_blank"><img alt="cka" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6" target="_blank"><img alt="terraform-associate" src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/48e35896-034f-4a05-a923-6f5ca7def4c6" target="_blank"><img alt="terraform-associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="125" height="125"></a>
   <!-- <a href="https://www.gernotstarke.de/images/certification/cpsa-f-logo.png" target="_blank"><img alt="iSAQB" src="CPSA-F)](https://zertdb.isqi.org/de/download/certificate/token/zQcwjW%241A_-V_t6a-9_7)" width="125" height="125"></a> -->
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
@@ -248,7 +248,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.10.2025 02:06:19
+Last update: 01.11.2025 02:06:22
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
