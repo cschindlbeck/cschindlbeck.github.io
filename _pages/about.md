@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2025-11-01 20:49:38 +0000
+date:   2025-12-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -187,17 +187,19 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 
 <p align="center">
   <a href="https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792" target="_blank"><img alt="amazon-well-architected" src="https://images.credly.com/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5" target="_blank"><img alt="amazon-eks" src="https://images.credly.com/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5" target="_blank"><img alt="amazon-eks" src="https://images.credly.com/size/340x340/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f" target="_blank"><img alt="amazon-architecting" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1" target="_blank"><img alt="amazon-cloud-quest-cloud-practitioner" src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699" target="_blank"><img alt="educate-networking" src="https://images.credly.com/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" width="125" height="125"></a>
-  <a href="https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9" target="_blank"><img alt="educate-gen-ai" src="https://images.credly.com/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1" target="_blank"><img alt="amazon-cloud-quest-cloud-practitioner" src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="125" height="125"></a>
+  <a href="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" target="_blank"><img alt="amazon-cloud-quest-gen-ai-practitioner" src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699" target="_blank"><img alt="educate-networking" src="https://images.credly.com/size/340x340/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9" target="_blank"><img alt="educate-gen-ai" src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="125" height="125"></a>
 </p>
 
 - [AWS Well-Architected Proficient](https://www.credly.com/badges/93fdef32-ad86-4092-a1dc-8a2b96ba7792)
 - [AWS Technology: Amazon EKS](https://www.credly.com/badges/51fa72ad-75ef-4068-815c-27d28b95dda5)
 - [AWS Technology: Architecting](https://www.credly.com/badges/9055e89c-946d-4c0d-8bac-816a832e3d7f)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/0f74fa2f-6574-4221-8dbf-9e73ad4f2cd1)
+- [AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/d0142bd5-675d-4381-ac81-458198d6eefd)
 - [AWS Educate: Getting Started with Networking](https://www.credly.com/badges/4d2938d5-6157-4016-a5b7-24e19ccfb699)
 - [AWS Educate: Introduction to Generative AI](https://www.credly.com/badges/415ed9a9-03c4-484d-8cb5-bc349f2f68a9)
 - [KodeKloud Kustomize](https://learn.kodekloud.com/certificate/c3c9d63c-d5a2-4ee5-bc31-fd029996cb2e)
@@ -248,7 +250,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.11.2025 02:06:22
+Last update: 01.12.2025 02:32:06
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
