@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about/
+    url: /about/
   - title: "CV"
     url: /assets/docs/resume_cschindlbeck.pdf
   - title: "Publications"
-    url: /_pages/research/
+    url: /research/

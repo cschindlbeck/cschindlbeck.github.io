@@ -2,6 +2,7 @@
 layout: single
 title:  "Research"
 author_profile: true
+permalink: /research/
 date:   2021-05-29 16:00:00 +0100
 categories: jekyll update
 ---
