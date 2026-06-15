@@ -2,8 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-permalink: /about/
-date:   2026-06-01 20:49:38 +0000
+date:   2026-06-15 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
