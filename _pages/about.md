@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2026-06-15 20:49:38 +0000
+date:   2026-07-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -252,7 +252,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
     1250 ┤
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.06.2026 05:05:38
+Last update: 01.07.2026 04:46:05
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
