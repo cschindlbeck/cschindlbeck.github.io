@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2026-07-01 20:49:38 +0000
+date:   2026-08-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -239,20 +239,20 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
          | |____| | (__| | | |  __/\__ \__ \
          |______|_|\___|_| |_|\___||___/___/
 
-    2130 ┤                                                              ╭
-    2042 ┤                                                              │
-    1954 ┤                                              ╭╮  ╭╮          │
-    1866 ┤                                         ╭╮ ╭─╯╰──╯╰──╮ ╭─────╯
-    1778 ┤                           ╭╮  ╭──╮╭──╮╭─╯╰─╯         ╰─╯
-    1690 ┤                        ╭╮╭╯╰──╯  ╰╯  ╰╯
-    1602 ┼╮                   ╭──╮│╰╯
-    1514 ┤│   ╭───╮╭─╮╭╮╭─────╯  ╰╯
-    1426 ┤╰╮ ╭╯   ╰╯ ╰╯╰╯
-    1338 ┤ ╰─╯
-    1250 ┤
+    1928 ┤
+    1860 ┤                                       ╭──╮╭╮  ╭╮╭╮╭
+    1792 ┤                             ╭╮╭╮ ╭╮╭──╯  ╰╯╰╮╭╯╰╯╰╯
+    1724 ┤                      ╭╮ ╭──╮│╰╯╰─╯╰╯        ╰╯
+    1656 ┤                    ╭╮││╭╯  ╰╯
+    1588 ┤                 ╭─╮│╰╯╰╯
+    1519 ┼╮   ╭╮  ╭╮   ╭─╮ │ ╰╯
+    1451 ┤│  ╭╯╰──╯│╭──╯ ╰─╯
+    1383 ┤│  │     ╰╯
+    1315 ┤╰╮╭╯
+    1247 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.07.2026 04:46:05
+Last update: 01.08.2026 03:39:31
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
