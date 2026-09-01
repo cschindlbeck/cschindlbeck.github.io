@@ -2,7 +2,7 @@
 layout: single
 title:  "About"
 author_profile: true
-date:   2026-08-01 20:49:38 +0000
+date:   2026-09-01 20:49:38 +0000
 categories: jekyll update
 ---
 # Hi there, I'm Chris! 👋
@@ -157,6 +157,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
 ### Certifications
 
 <p align="center">
+  <a href="https://www.credly.com/badges/87de9051-3542-4d80-a582-9461933177a1/public_url" target="_blank"><img alt="cncf-kcna" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/3d801a05-7520-4c3c-836f-f5e708f7eb6d/public_url" target="_blank"><img alt="aws-saa-c03" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/08c7a385-98d8-4c91-86ac-dd89bec01d57" target="_blank"><img alt="github-advanced-security" src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="125" height="125"></a>
   <a href="https://www.credly.com/badges/9d1c30b5-f3ec-4f38-9087-3176ba41f667" target="_blank"><img alt="cka" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125"></a>
@@ -165,6 +166,10 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=65C88A1D-8FF0-4075-89C5-6416E2335F56&ts=801114640" target="_blank"><img alt="scrum-master" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630589.png?s=43641.5914699074" width="125" height="125"></a>
   <a href="https://mylogin.exin.nl/polarserver.asp?Script=GetLinkedInPost&CandidateCertificateGUID=B140654E-0650-4922-8F9A-C8714CB48603&ts=801114656" target="_blank"><img alt="scrum-product-owner" src="https://mylogin.exin.nl/BlobData/Exillence/MultiModuleCertificate/CertificateBadgeImage/630641.png?ts=43641.5919212963" width="125" height="125"></a>
 </p>
+
+#### 2026
+
+- [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/87de9051-3542-4d80-a582-9461933177a1/public_url)
 
 #### 2025
 
@@ -252,7 +257,7 @@ Verify my certifications on 👉🏻 [Credly](https://www.credly.com/users/chris
     1247 ┤ ╰╯
 
 User: christopsy666, Rating type: Bullet on lichess.org
-Last update: 01.08.2026 03:39:31
+Last update: 01.09.2026 04:52:11
 </code>
 </pre>
 Lichess stats generated via [lichess-ascii-rating-tracker](https://github.com/cschindlbeck/lichess-ascii-rating-tracker.git).
